@@ -1,3 +1,16 @@
+
+# just DataTypes how its working and what is the range of dataTypes thats enough to slove this problem
+```java
+   Ntg is required to slove this 
+   so, don't worry about it 
+   just gohead.....
+
+   yogi don't giveUp just slove 100 days at least 150 problems 
+```
+
+
+
+
 # Day one HackerRank dataTypes Question. don't think very simple lolipop question in front crocodial festival is there
 
 Java has 8 primitive data types; char, boolean, byte, short, int, long, float, and double. For this exercise, we'll work with the primitives used to hold integer values (byte, short, int, and long):
