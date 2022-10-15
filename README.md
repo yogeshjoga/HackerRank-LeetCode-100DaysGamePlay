@@ -30,4 +30,6 @@ Lets start the gamePlay with HackerRank and leetCode
                 java inputOutput streams 
                 Java Scanner Class all methods like overRide and overLoad, default and argConstructors
                 that's enough to overCome to this problems....
+                
+                javaTpoint link for all methods : https://www.javatpoint.com/post/java-scanner-hasnext-method
 ```
