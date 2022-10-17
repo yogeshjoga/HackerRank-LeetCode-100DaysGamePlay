@@ -13,7 +13,7 @@ Lets start the gamePlay with HackerRank and leetCode
          SELF MOTIVATION IS VERY IMP so don't giveUp man 
 ```
 
-# Fill this sheet everyDay, What your are working and learning make habbit it, 
+# Fill this sheet everyDay, What your are working and learning, make it habbit , 
 ## Day one 14/10/2022
 ```java
         Working with java DataTypes and how it working
