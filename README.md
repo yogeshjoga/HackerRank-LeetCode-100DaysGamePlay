@@ -33,7 +33,7 @@ Lets start the gamePlay with HackerRank and leetCode
                 
                 javaTpoint link for all methods : https://www.javatpoint.com/post/java-scanner-hasnext-method
 ```
-10
+
 ## Day 3 16/10/2022
 ```java
        Working with java static block and exceptions 
