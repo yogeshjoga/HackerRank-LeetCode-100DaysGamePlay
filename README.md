@@ -21,3 +21,15 @@ Lets start the gamePlay with HackerRank and leetCode
         and slove one hackerRank dataType Based problem
         That's enough...
 ```
+## Day two 15/10/2022
+```java
+        Working with Scanner.hasNext()
+                     Scanner.nextLine()
+             methods to use file string read and print itrators 
+        Prequisites :
+                java inputOutput streams 
+                Java Scanner Class all methods like overRide and overLoad, default and argConstructors
+                that's enough to overCome to this problems....
+                
+                javaTpoint link for all methods : https://www.javatpoint.com/post/java-scanner-hasnext-method
+```
