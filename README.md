@@ -39,6 +39,57 @@ Lets start the gamePlay with HackerRank and leetCode
        Working with java static block and exceptions 
        throws and throw keywords in Exception...
 ```
+## Day 4 17/10/2022
+```java
+      Working with java String conversions
+      like primitive to non-primitive values
+      we can change the values 
+           numerical to string  and compare in if condition 
+           perform the operations it may helps to use 
+           this is very Intro of java question just 
+           think and learn...
+           that's enought to us
+```
+
+## Day 5 18/10/2022
+```java
+        Working with the Calander class (AB abstract class)
+        we can impelement the abstact methods while writing the code..
+```
+## Stoping 3 months taken to the rest 
+```java
+                my brain is not working properly
+                why bcoz im not good 
+                so, this new year will give good vibs and good carrer to you yogi
+
+                let's start the learning yogi 
+                don't delay
+                about ur carrer so let's start now only
+        Don't give uP it will make you lazyer and looser
+        okay let's start the learning......
+
+        youtube
+        cashew
+        fashion brand
+        make millions every month 
+        buy new MB- okay 
+        learn new things every day it will make you 
+        sharper and confiedent......
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

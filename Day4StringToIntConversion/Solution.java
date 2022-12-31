@@ -1,4 +1,4 @@
-package Day4;
+package Day4StringToIntConversion;
 
 import java.util.*;
 import java.security.*;
