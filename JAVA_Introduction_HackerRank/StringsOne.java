@@ -33,7 +33,25 @@ public class StringsOne {
      //   System.out.println(A+" "+B);
      System.out.println(A.substring(0,1).toUpperCase()+A.substring(1)+" "+B.substring(0,1).toUpperCase()+B.substring(1));
     }
-  
+
+    public static void startEnd(){
+        /*
+         * Sample Input
+         * 
+         * Helloworld
+         * 3 7
+         * 
+         * Sample Output
+         * 
+         * lowo
+         */
+        Scanner in = new Scanner(System.in);
+        String S = in.next();
+        int start = in.nextInt();
+        int end = in.nextInt();
+        in.close();
+        System.out.println(S.substring(start,end));
+    }
 }
 
 
