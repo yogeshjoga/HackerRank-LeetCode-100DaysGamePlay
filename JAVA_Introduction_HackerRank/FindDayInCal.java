@@ -35,8 +35,8 @@ class Result {
         return dayOfWeek;
     }
     public static void main(String[] args) {
-        int month = 01;
-        int year =2007;
+        int month = 11;
+        int year =2022;
         int day = 6;
         findDay(month, day, year);
     }
