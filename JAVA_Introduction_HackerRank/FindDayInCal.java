@@ -44,6 +44,7 @@ class Result {
 }
 
 // this solution in HackerRank solution Class
+/* 
  class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
@@ -64,5 +65,6 @@ class Result {
 
         bufferedReader.close();
         bufferedWriter.close();
-    }
+    } 
 }
+*/
