@@ -52,6 +52,7 @@ public class StringsOne {
         in.close();
         System.out.println(S.substring(start,end));
     }
+    // solution
     public void stringFormatting(){
         Scanner sc=new Scanner(System.in);
         System.out.println("================================");
@@ -64,5 +65,10 @@ public class StringsOne {
         System.out.println("================================");
     }
 }
+
+
+
+
+
  
 
